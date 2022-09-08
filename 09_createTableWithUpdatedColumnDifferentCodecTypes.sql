@@ -1,3 +1,4 @@
+SET allow_suspicious_codecs=1;
 CREATE TABLE cellTowers.cell_towers_updated
 (
     `updated_none_none` DateTime CODEC(NONE),
