@@ -1,6 +1,6 @@
 # Column Compression Codec Comparison
 
-<p> Please follow the steps explained below </p>
+<p> Please follow the steps explained below: </p>
 
 * Create database in ClickHouse for the compression tests with [00_create_database.sql](https://github.com/emoido/CompresssionClickHouse/blob/main/00_create_database.sql).
 * Download and install the **Cell Towers** dataset by clicking [here](https://clickhouse.com/docs/en/getting-started/example-datasets/cell-towers/). **Important Note:** Please create table under **cellTowers** database.
