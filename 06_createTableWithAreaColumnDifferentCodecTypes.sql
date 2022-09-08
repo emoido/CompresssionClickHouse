@@ -1,3 +1,4 @@
+SET allow_suspicious_codecs=1;
 CREATE TABLE cellTowers.cell_towers_area
 (
     `area_none_none` UInt16 CODEC(NONE),
