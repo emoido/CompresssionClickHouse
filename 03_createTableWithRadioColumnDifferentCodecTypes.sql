@@ -1,3 +1,4 @@
+SET allow_suspicious_codecs=1;
 CREATE TABLE cellTowers.cell_towers_radio
 (
     `radio_none_none` Enum8('' = 0, 'CDMA' = 1, 'GSM' = 2, 'LTE' = 3, 'NR' = 4, 'UMTS' = 5) CODEC(NONE),
